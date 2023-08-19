@@ -1,6 +1,7 @@
 const Discord = module.require("discord.js");
 const moment = require('moment')
 const db = require('quick.db')
+const config = require("../config")
 
 module.exports = {
     name: 'userinfo',
