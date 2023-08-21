@@ -1,3 +1,3 @@
 # Discord-Anti-Raid-Bot
 
-encore en dev pour avoir les [nouveautés](https://discord.gg/hRsFuaNmMS) cliquez sur nouveauté ! le serv a sauté si jamais veuillez re join !
+actuellement leak sur OFA Dev pour avoir le [bot rejoingnez le discord](https://discord.gg/hRsFuaNmMS) cliquez sur nouveauté ! le serv a sauté si jamais veuillez re join !
